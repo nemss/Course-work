@@ -1,0 +1,6 @@
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\bin\Debug\Задача - 372з.exe.config
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\obj\Debug\Задача - 372з.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\bin\Debug\Задача - 372з.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\bin\Debug\Задача - 372з.pdb
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\obj\Debug\Задача - 372з.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 372з\obj\Debug\Задача - 372з.pdb

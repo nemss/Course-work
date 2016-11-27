@@ -1,0 +1,6 @@
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\bin\Debug\Задача - 8.exe.config
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\bin\Debug\Задача - 8.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\bin\Debug\Задача - 8.pdb
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\obj\Debug\Задача - 8.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\obj\Debug\Задача - 8.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 8\obj\Debug\Задача - 8.pdb

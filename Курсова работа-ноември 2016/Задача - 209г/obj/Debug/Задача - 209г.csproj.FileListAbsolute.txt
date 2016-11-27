@@ -1,0 +1,6 @@
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\bin\Debug\Задача - 209г.exe.config
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\bin\Debug\Задача - 209г.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\bin\Debug\Задача - 209г.pdb
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\obj\Debug\Задача - 209г.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\obj\Debug\Задача - 209г.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 209г\obj\Debug\Задача - 209г.pdb

@@ -1,0 +1,6 @@
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\bin\Debug\Задача - 354.exe.config
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\bin\Debug\Задача - 354.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\bin\Debug\Задача - 354.pdb
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\obj\Debug\Задача - 354.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\obj\Debug\Задача - 354.exe
+C:\Programs\vs\Курсова работа\Курсова работа\Задача - 354\obj\Debug\Задача - 354.pdb
